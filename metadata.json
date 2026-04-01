@@ -1,0 +1,5 @@
+{
+  "name": "Nora AI Assistant",
+  "description": "A futuristic voice-controlled browser AI assistant with real-time interaction and automation capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
